@@ -1,0 +1,44 @@
+#main-container{
+    border: 2px solid navy;
+    border-radius: 10px;
+}
+
+body{
+    
+    background-color: #8EC5FC;
+    background-repeat: no-repeat;
+    height: 100vh;
+    /* height: 100%; */
+
+}
+
+.nav-link{
+    text-decoration: none;
+    color: black;
+    font-weight: 400;
+    font-size: large;
+}
+
+.nav-link:hover{
+    color: white;
+}
+
+#info{
+    text-align:center;
+}
+
+#icon{
+    width: 100px;
+    height: 100px;
+    ;
+}
+
+#title {
+    font-size: 50px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+#logo{
+    width: 45px;
+    height: 45px;
+}
